@@ -4,7 +4,9 @@
           android:icon="@drawable/ic_tracking"
     android:id="@+id/action"/>
     <item android:title="overalll"
-    android:id="@+id/overall"/>
+          android:icon="@drawable/ic_tracking"
+          android:id="@+id/overall"/>
     <item android:title="Analysis"
-    android:id="@+id/analysis"/>
+          android:icon="@drawable/ic_tracking"
+          android:id="@+id/analysis"/>
 </menu>
